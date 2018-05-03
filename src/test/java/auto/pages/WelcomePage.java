@@ -29,7 +29,7 @@ public class WelcomePage extends Services {
     public PasswordPage login() {
 
 
-        waitForElement(welocomePageObjects.userName).sendKeys("cdac.anuj@gmail.com");
+        waitForElement(welocomePageObjects.userName).sendKeys("<email-address>");
         waitForElement(welocomePageObjects.nextBtn).click();
         takeScreenshot("login");
         return new PasswordPage(driver);

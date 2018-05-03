@@ -30,7 +30,7 @@ public class PasswordPage extends Services {
 
 
         waitForElement(passwordPageObjects.passwordLink).click();
-        waitForElement(passwordPageObjects.password).sendKeys("robin@85");
+        waitForElement(passwordPageObjects.password).sendKeys("<password>");
         waitForElement(passwordPageObjects.nextBtn).click();
         takeScreenshot("enterPassword");
 
