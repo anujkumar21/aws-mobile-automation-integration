@@ -1,1 +1,0 @@
-# aws-mobile-automation-integration
