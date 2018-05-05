@@ -1,8 +1,8 @@
 # AWS Device Farm & Mobile Automation Integration
 
 ## Prerequisite:
-Java
-Appium
-AWS Account
+1. Java
+2. Appium
+3. AWS Account
 
 
