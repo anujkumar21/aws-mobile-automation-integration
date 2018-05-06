@@ -28,3 +28,7 @@ This will create you 'zip-with-dependencies.zip' in target folder. Upload it on 
 
 ## Screeshots:
 
+![Execution report](https://github.com/anujkumar21/aws-mobile-automation-integration/blob/master/execution_report.png)
+
+
+Have fun.
